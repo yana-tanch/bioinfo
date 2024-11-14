@@ -1,0 +1,27 @@
+2024-11-13 20:24:48,314 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,317 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,318 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,318 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,319 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,319 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,319 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,320 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,320 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,320 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,321 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,321 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,325 WARN o.p.p.v.VcfParser [VcfParser.java:109] There are 1 samples in the header but 0 in the metadata
+2024-11-13 20:24:48,336 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,336 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,337 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,337 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,337 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,337 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,338 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,338 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,338 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,338 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,338 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,339 WARN o.p.p.v.m.ContigMetadata [ContigMetadata.java:98] Required metadata property "length" is missing
+2024-11-13 20:24:48,339 WARN o.p.p.v.VcfParser [VcfParser.java:109] There are 1 samples in the header but 0 in the metadata
+2024-11-13 20:24:49,143 INFO o.p.p.p.Phenotyper [Phenotyper.java:147] Writing Phenotyper JSON to /Users/jana/work/bio/pharmcat.example.phenotype.json
